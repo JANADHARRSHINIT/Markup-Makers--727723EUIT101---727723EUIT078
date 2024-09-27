@@ -1,0 +1,24 @@
+#overall
+{
+    height: 250px;
+    width: 250px;
+    background-color: gray;
+}
+#small
+{
+    height: 5px;
+    width: 10px;
+    padding-bottom: 0%;
+    margin-top: 50px;
+    background-color: white;
+
+}
+#large
+{
+    height: 100px;
+    width: 40px;
+    background-color: greenyellow;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}   

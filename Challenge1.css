@@ -1,0 +1,40 @@
+#id{
+    height: 250px;
+    width: 250px;
+    background-color: green;
+}
+#circle1{
+    height: 125px;
+    width:125px;
+    background-color: gold;
+    border-radius: 50px;
+}
+#circle2{
+    height: 125px;
+    width:125px;
+    background-color: gold;
+    border-radius: 50px;
+
+}
+#circle3{
+    height: 125px;
+    width:125px;
+    background-color: gold;
+    border-radius: 50px;
+
+}
+#circle4{
+    height: 125px;
+    width:125px;
+    background-color: gold;
+    border-radius: 50px;
+
+}
+#jana
+{
+    display: flex;
+}
+#keerthana
+{
+    display: flex;
+}
